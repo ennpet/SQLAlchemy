@@ -4,3 +4,4 @@ asyncpg
 SQLAlchemy~=2.0
 alembic
 environs
+faker
